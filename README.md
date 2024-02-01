@@ -7,7 +7,7 @@ There are dozen ways to help us, [JUST DO IT](https://github.com/pinchukdiana/he
 
 
 # NestJS Redis Example
-A simple NestJS framework (node.js) Redis example implementation.
+A simple NestJS framework (node.js) Redis example.
 
 ## Installation 
 
